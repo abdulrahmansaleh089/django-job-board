@@ -31,5 +31,3 @@ home
 
 
 login 
-
-test
